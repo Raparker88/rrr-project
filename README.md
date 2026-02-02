@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 ## To Run Locally
 
 - ```npm install```
-- ```npm run dev``
+- ```npm run dev```
 
 
